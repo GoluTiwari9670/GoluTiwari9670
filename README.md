@@ -48,7 +48,7 @@
 
 - 🌐 [Portfolio](https://your-portfolio-link.com)
 - 📫 Email: adititiwari1879@gmail.com
-- 🐙 GitHub: [@YOUR_USERNAME](https://github.com/GoluTiwari9670)
+- 🐙 GitHub: [@GoluTiwari9670](https://github.com/GoluTiwari9670)
 - 💼 LinkedIn: [yourprofile](https://linkedin.com/in/yourprofile)
 
 ---
