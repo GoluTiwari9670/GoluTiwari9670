@@ -24,6 +24,32 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 </p>
 
+
+---
+
+
+## 🎨 Tech Artistry
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="code animation"/>
+</p>
+
+- 🎨 Creating elegant UI with minimal code
+- 🌌 Turning logic into art with clean architecture
+- 📈 Writing code that scales and flows
+
+---
+
+## 🔄 Workflow & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TERMINAL-000000?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
+</p>
+
 ---
 
 ## 🔧 Projects & Passion
