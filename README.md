@@ -47,8 +47,8 @@
 ## ☕ Let's Connect
 
 - 🌐 [Portfolio](https://your-portfolio-link.com)
-- 📫 Email: you@example.com
-- 🐙 GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- 📫 Email: adititiwari1879@gmail.com
+- 🐙 GitHub: [@YOUR_USERNAME](https://github.com/GoluTiwari9670)
 - 💼 LinkedIn: [yourprofile](https://linkedin.com/in/yourprofile)
 
 ---
